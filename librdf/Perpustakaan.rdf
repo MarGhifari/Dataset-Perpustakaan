@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
-<rdf:RDF 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-			xmlns:dc="https://purl.org/dc/elements/1.1">
+<rdf:RDF 	
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="https://purl.org/dc/elements/1.1">
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Crystal_of_Knowledge">
         <dc:name>Perpustakaan UI</dc:name>
