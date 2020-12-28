@@ -5,7 +5,7 @@ AUTHOR:
   - (191401060) Muhammad Abdulrahman Ghifari
 
 <b>EN:</b><br>
-This file contains turtle dataset which contains library list around Indonesia
+This file contains dataset which contains library list around Indonesia
 
 <b>Attention</b> This file is still under developing we're not responsible for the wrong use of the data
 
@@ -37,7 +37,7 @@ Province: North Sumatra
   - UNIMED Library
 
 <b>ID:</b><br>
-File ini berisi dataset turtle yang berisi daftar perpustakaan di seluruh Indonesia
+File ini berisi dataset yang berisi daftar perpustakaan di seluruh Indonesia
 
 <b>ATTENTION:</b> File ini masih dalam tahap pengembangan/beta kami tidak bertanggung jawab atas semua penyalahgunaan
 
